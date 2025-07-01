@@ -14,27 +14,8 @@
     
     6) Postal Code
     
-    7) Latitude
+    7) Etc
     
-    8) Longitude
-    
-    9) TimeZone 
-    
-    10) Country code
-    
-    11) Currency
-    
-    12) Currency Name
-    
-    13) Languages 
-    
-    14) Country Area
-    
-    15) Population
-    
-    16) ASN
-    
-    17) Organization
  # Tested On Hackers
 * Kali Linux
 
