@@ -55,9 +55,9 @@
     sudo apt install python3
     git clone https://github.com/darkboss1/Live-location-by-darkboss1.git
     ls
-    cd Live-location.py 
+    cd Live-location-by-darkboss1 
     ls
-    sudo python3 Live-location.py
+    sudo python3 Live-location-by-darkboss1.py
 # Termux Installation
     apt update 
     apt install git 
@@ -66,9 +66,9 @@
     apt install pip
     git clone https://github.com/darkboss1/Live-location-by-darkboss1.git
     ls
-    cd Live-location.py
+    cd Live-location-by-darkboss1
     ls
-    python3 Live-location.py
+    python3 Live-location-by-darkboss1.py
 # ❌Disclaimer❌
 * Live-location tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose
 * Hacking is not a crime (: ..Pull requests are always welcome.. :)
