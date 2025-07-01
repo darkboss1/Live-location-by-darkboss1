@@ -1,5 +1,5 @@
 #!/usr/bin/python 3
-# COADER : AKASH BLACK HAT
+# COADER : DARKBOSS1 SECURITY EXPERT
 import os
 
 try:
@@ -35,7 +35,7 @@ def loop():
     ┴ ┴└─┴ ┴└─┘┴ ┴└─┘┴└─                                                                                                                                                       
  ==============================================
 [+]Author  : darkboss1 security Expert          [+]
-[+]GitHub  : https://github.com/akashblackhat[+]""")
+[+]GitHub  : https://github.com/darkboss1[+]""")
     print(Fore.GREEN + """ ==============================================""")
     # print("Usage:Iptracker [Ip address]\n\nExample:Iptracker our prsnal ip")
     print(Fore.GREEN + """
